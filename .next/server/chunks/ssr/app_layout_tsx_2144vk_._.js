@@ -1,0 +1,3 @@
+module.exports=[33290,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"uk",children:(0,b.jsx)("body",{children:a})})},"metadata",0,{title:"Ендокринолог Коваль — Запис на консультацію",description:"Онлайн запис до ендокринолога. Консультації щодо діабету, щитовидної залози, гормональних порушень."}])},70864,a=>{a.n(a.i(33290))}];
+
+//# sourceMappingURL=app_layout_tsx_2144vk_._.js.map
