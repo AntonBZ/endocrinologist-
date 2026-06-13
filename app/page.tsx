@@ -58,7 +58,7 @@ export default function BookingPage() {
         }),
       })
 
-      window.open('https://bank-qr.com.ua/pay/QkNECjAwMgoxClVDVAoK0KTQntCfINCe0YHRgtCw0L_Rh9GD0Log0JDQvdC90LAg0IbQs9C-0YDRltCy0L3QsApVQTA3MzIyMDAxMDAwMDAyNjAwNzM1MDA5Njg4MQpVQUgxMjAwCjMzODg0MDEwODIKCgrQntC_0LvQsNGC0LAg0LfQsCDQvdCw0LTQsNC90L3RjyDQutC-0L3RgdGD0LvRjNGC0LDRhtGW0LnQvdC40YUg0L_QvtGB0LvRg9CzCgo', '_blank')
+      window.location.href = 'https://bank-qr.com.ua/pay/QkNECjAwMgoxClVDVAoK0KTQntCfINCe0YHRgtCw0L_Rh9GD0Log0JDQvdC90LAg0IbQs9C-0YDRltCy0L3QsApVQTA3MzIyMDAxMDAwMDAyNjAwNzM1MDA5Njg4MQpVQUgxMjAwCjMzODg0MDEwODIKCgrQntC_0LvQsNGC0LAg0LfQsCDQvdCw0LTQsNC90L3RjyDQutC-0L3RgdGD0LvRjNGC0LDRhtGW0LnQvdC40YUg0L_QvtGB0LvRg9CzCgo'
       setStep(3)
     } catch (e) {
       alert('Помилка. Спробуйте ще раз.')
